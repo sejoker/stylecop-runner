@@ -1,3 +1,7 @@
+/*
+  Execute StyleCop runner and specify test folder as project path,
+  should return "No violations encountered"
+ */
 using System;
 
 namespace StyleCop.Test {

@@ -1,0 +1,5 @@
+# ignore scriptcs packages folder
+scriptcs_packages
+
+# ignore violations file
+StyleCopViolations.xml

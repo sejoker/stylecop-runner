@@ -1,8 +1,5 @@
 ﻿#load "runnerArguments.csx"
 #load "exitCode.csx"
-#r "StyleCop.dll"
-#r "StyleCop.CSharp.dll"
-#r "StyleCop.CSharp.Rules.dll"
 
 using System;
 using System.IO;
